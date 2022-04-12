@@ -1,4 +1,4 @@
-package example;
+package example.testForJava;
 
 public class Employee implements java.io.Serializable
 {
